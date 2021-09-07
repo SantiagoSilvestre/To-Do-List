@@ -1,2 +1,2 @@
 # ToDoList
-## Aplicativo desenvolvivido como projeto final do bootcamp
+## Aplicativo desenvolvido como projeto final do bootcamp
